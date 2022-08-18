@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1660820133 source:f:\session12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wed.h"
+
+1660819950 f:\session12\wed.h
+
